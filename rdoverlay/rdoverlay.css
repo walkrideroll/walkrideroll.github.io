@@ -47,7 +47,7 @@
     width: 170px;
     height: 61px;
     background: url(bumper.png);
-    opacity: 1;
+    opacity: 0;
 }
 
 .xbox .bumpers {
@@ -59,7 +59,7 @@
 }
 
 .xbox .bumper.pressed {
-    opacity: 0;
+    opacity: 1;
 }
 
 .xbox .bumper.left {
