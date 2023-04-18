@@ -12,7 +12,7 @@
 }
 
 .xbox.disconnected {
-    background: url(xbox-assets/disconnected.svg);
+    background: url(disconnected.png);
 }
 
 .xbox.disconnected div {
