@@ -1348,6 +1348,10 @@ background-position: 0 -70px;
     background-image: url(sticks.png);
 }
 
+.ds4.white .stick.left {
+    background-image: url(stick.png);
+}
+
 .ds4.white .face {
     background-image: url(ps4-white-assets/dpad.svgz);
 }
